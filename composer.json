@@ -16,7 +16,6 @@
         "datatables.net/datatables.net-buttons": "dev-master",
         "datatables.net/datatables.net-responsive": "dev-master",
         "datatables.net/datatables.net-responsive-bs4": "dev-master",
-        "directorytree/ldaprecord-laravel": "^2.3",
         "enyo/dropzone": "^5.9",
         "fruitcake/laravel-cors": "^2.0",
         "grimmlink/jquery-slimscroll": "^1.3",
