@@ -2172,12 +2172,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/microsoftgraph/msgraph-sdk-php.git",
-                "reference": "18f300acb288208339b3b720d5b692362a9c58b9"
+                "reference": "7b55d21c459bd5df2da617022c1a6d0d973c6fa1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/microsoftgraph/msgraph-sdk-php/zipball/18f300acb288208339b3b720d5b692362a9c58b9",
-                "reference": "18f300acb288208339b3b720d5b692362a9c58b9",
+                "url": "https://api.github.com/repos/microsoftgraph/msgraph-sdk-php/zipball/7b55d21c459bd5df2da617022c1a6d0d973c6fa1",
+                "reference": "7b55d21c459bd5df2da617022c1a6d0d973c6fa1",
                 "shasum": ""
             },
             "require": {
@@ -2216,7 +2216,7 @@
                 "issues": "https://github.com/microsoftgraph/msgraph-sdk-php/issues",
                 "source": "https://github.com/microsoftgraph/msgraph-sdk-php/tree/dev"
             },
-            "time": "2022-09-27T12:23:58+00:00"
+            "time": "2022-09-28T12:54:13+00:00"
         },
         {
             "name": "monolog/monolog",
@@ -3151,16 +3151,16 @@
         },
         {
             "name": "psr/simple-cache",
-            "version": "2.0.0",
+            "version": "3.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-fig/simple-cache.git",
-                "reference": "8707bf3cea6f710bf6ef05491234e3ab06f6432a"
+                "reference": "764e0b3939f5ca87cb904f570ef9be2d78a07865"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-fig/simple-cache/zipball/8707bf3cea6f710bf6ef05491234e3ab06f6432a",
-                "reference": "8707bf3cea6f710bf6ef05491234e3ab06f6432a",
+                "url": "https://api.github.com/repos/php-fig/simple-cache/zipball/764e0b3939f5ca87cb904f570ef9be2d78a07865",
+                "reference": "764e0b3939f5ca87cb904f570ef9be2d78a07865",
                 "shasum": ""
             },
             "require": {
@@ -3169,7 +3169,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "2.0.x-dev"
+                    "dev-master": "3.0.x-dev"
                 }
             },
             "autoload": {
@@ -3196,9 +3196,9 @@
                 "simple-cache"
             ],
             "support": {
-                "source": "https://github.com/php-fig/simple-cache/tree/2.0.0"
+                "source": "https://github.com/php-fig/simple-cache/tree/3.0.0"
             },
-            "time": "2021-10-29T13:22:09+00:00"
+            "time": "2021-10-29T13:26:27+00:00"
         },
         {
             "name": "psy/psysh",
